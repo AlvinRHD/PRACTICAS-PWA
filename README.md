@@ -1,3 +1,5 @@
-# PRACTICAS-PWA
-Practicas de Paginas web activas - ciclo 03
-.::Alvin Rosales - U20230560::.
+# Practicas_PWA_Cl24 
+
+Practicas de Paginas web activas - UNIVO
+
+![Imagen referente a la materia](reference.png)
