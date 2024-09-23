@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DappPractica7.props" />
+</Project>
